@@ -22,12 +22,11 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: Favorite Confirmation Collection 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: A showcase of some of my favorite reading materials
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
-# creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+description: This collection is a showcase for some of the books that I own. My intent is to show their existance and, if possible, to share the information needed to continue the search for and about these materials. The majority can be discovered with the information provided. Adult readers who find interest in these titles may find the collection useful and interesting.
+author: Damaris Wright
 
 ##########
 # COLLECTION SETTINGS
